@@ -85,7 +85,3 @@ scale-independent and directly interpretable for inventory planning. The evaluat
 metric for the failure classifier is Recall, chosen because the cost of a missed
 failure is 10x the cost of a false alarm.
 
-## AI Usage
-
-All AI-assisted steps, exact prompts, and critiques are documented in `prompts.md`.
-No cell contains raw AI output without review and modification.
